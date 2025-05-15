@@ -24,7 +24,7 @@ export const WaveCornerCard = ({ img, name, price }) => {
 
       <p className="text-green-600 text-sm font-medium">${price}</p>
 
-      {/* Wave Cutout SVG */}
+      
       <svg 
         className="absolute bottom-0 right-0 z-0" 
         width="80" 
@@ -39,8 +39,6 @@ export const WaveCornerCard = ({ img, name, price }) => {
           fill="#F8F7F0" 
         />
       </svg>
-
-      {/* Overlay image inside the wave cutout */}
       <img
         src="/images/shopping.png"
         alt="Overlay"

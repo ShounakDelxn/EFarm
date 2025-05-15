@@ -1,7 +1,6 @@
 export function About() {
   return (
     <div className="w-full h-66 flex mt-10">
-      {/* Text Content (Left) */}
       <div className="w-1/2 h-full flex items-center justify-center rounded-xl ml-8">
         <div className="">
           <div className="flex justify-end">
@@ -14,7 +13,6 @@ export function About() {
         </div>
       </div>
 
-      {/* Image (Right) */}
       <div className="w-1/2 h-full flex items-center ml-5 pr-8">
         <div>
           <div>
@@ -29,7 +27,6 @@ export function About() {
             <h3 className="text-[#404A3D] mt-3 text-4xl">
               We're Best Agriculture & Organic Farms
             </h3>
-            {/* Random content below the heading */}
             <p className="mt-4 text-gray-600 max-w-md">
               We focus on sustainable, chemical-free farming to grow fresh, healthy organic produce. Our commitment to nature ensures better food for you and a cleaner environment.
             </p>

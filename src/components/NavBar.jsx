@@ -1,13 +1,13 @@
 export default function Navbar() {
   return (
     <nav className="w-full px-2 py-4 flex items-center  rounded-full  bg-white shadow-md">
-      {/* Logo */}
+      
       <div className="flex justify-between">
         <div className="text-2xl pl-5 flex-start font-bold text-green-700">
             EcoBrand
         </div>
 
-        {/* Navigation Links */}
+       
         <div className="ml-70">
             <ul className="flex space-x-6 text-gray-700 font-xs ">
                 <li className="hover:text-green-700 cursor-pointer">Home</li>

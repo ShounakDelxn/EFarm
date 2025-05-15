@@ -1,8 +1,6 @@
 import { About } from "./About";
-import { Card } from "./Card";
 import { Section } from "./Section";
 import {WaveCornerCard} from "./WaveCard";
-import WaveCard from "./WaveCard";
 
 export function MainContent(){
     return (

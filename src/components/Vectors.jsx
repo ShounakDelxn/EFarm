@@ -71,11 +71,7 @@ export function Vectors() {
                 </h4>
                 <p className="text-xs text-[#666666]">Online Support 24/7</p>
             </div>
-        </div>
-
-        
-
-      
+        </div>      
     </div>
   );
 }

@@ -34,9 +34,7 @@ export function MainContent(){
             <Section />
 
             <About />
-            <p className="mt-10">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus saepe porro exercitationem provident veniam omnis possimus quibusdam autem magnam quasi. Totam nisi adipisci itaque temporibus repellat neque cupiditate soluta nostrum?
-            Illum voluptatem ipsam sunt dolor reiciendis deleniti, repudiandae in suscipit quasi ab, rerum sapiente! Pariatur temporibus assumenda laborum et cumque necessitatibus eos, cum vero? Quis, repudiandae vero. Recusandae, culpa debitis?
-            Voluptates natus ea et rerum aspernatur. Voluptas, laboriosam necessitatibus dicta voluptatibus, expedita dolorem quisquam doloribus molestiae nesciunt reiciendis officia. In aspernatur fugit animi illum sequi nulla dolore. Odit, a. Hic?</p>
+            
         </div>
     )
 }

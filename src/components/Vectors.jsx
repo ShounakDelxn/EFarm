@@ -31,9 +31,9 @@ export function Vectors() {
             </div>
             <div className="my-3 ml-2">
                 <h4 className="font-light">
-                    Memeber Discount
+                    Money Return
                 </h4>
-                <p className="text-xs text-[#666666]">Back Gurantee under 7 days</p>
+                <p className="text-xs text-[#666666]">Full refund Guranteed</p>
             </div>
         </div>
 
@@ -49,9 +49,9 @@ export function Vectors() {
             </div>
             <div className="my-3 ml-2">
                 <h4 className="font-light">
-                    Memeber Discount
+                    Free Shipping
                 </h4>
-                <p className="text-xs text-[#666666]">Back Gurantee under 7 days</p>
+                <p className="text-xs text-[#666666]">Free Shipping on all orders</p>
             </div>
         </div>
 
@@ -67,9 +67,9 @@ export function Vectors() {
             </div>
             <div className="my-3 ml-2">
                 <h4 className="font-light">
-                    Memeber Discount
+                    Online Support
                 </h4>
-                <p className="text-xs text-[#666666]">Back Gurantee under 7 days</p>
+                <p className="text-xs text-[#666666]">Online Support 24/7</p>
             </div>
         </div>
 

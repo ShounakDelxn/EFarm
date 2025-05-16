@@ -1,6 +1,6 @@
 export function Vectors() {
   return (
-    <div className=" flex justify-between items-center px-40 mt-6">
+    <div className=" flex justify-between items-center px-40 mt-12">
         <div className="flex">
             <div
             className="w-15 h-15 bg-[#EDDD5E] rounded-full flex items-center justify-center overflow-hidden"

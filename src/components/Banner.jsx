@@ -1,7 +1,6 @@
 export default function Banner() {
   return (
     <div className="w-full h-96 flex mt-5">
-      {/* Text Content (Left) */}
       <div dir="ltr" className="w-1/2 h-full  bg-[#5B8C51] flex items-center justify-center rounded-s-xl ml-8">
         <div className="">
         <div className="flex justify-end">
@@ -20,7 +19,6 @@ export default function Banner() {
         </div>
       </div>
 
-      {/* Image (Right) */}
       <div dir="rtl" className="w-1/2  h-full pr-8">
         <img
           src="/images/banner.png"

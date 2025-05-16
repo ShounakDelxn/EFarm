@@ -2,13 +2,13 @@ import React from "react";
 
 export const WaveCornerCard = ({ img, name, price }) => {
   return (
-    <div className="max-w-72 h-56 bg-white rounded-3xl shadow-md relative p-4 flex flex-col items-center overflow-hidden">
+    <div className="max-w-72 h-68 bg-white rounded-3xl shadow-md relative p-4 flex flex-col items-center overflow-hidden">
       
       <div className="mb-2">
         <img
           src={img}
           alt={name}
-          className="w-28 h-28 object-contain"
+          className="w-38 h-38 object-contain"
         />
       </div>
 
